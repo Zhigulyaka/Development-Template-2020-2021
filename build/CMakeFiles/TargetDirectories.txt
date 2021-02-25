@@ -1,6 +1,0 @@
-G:/Учеба/prog/template/build/CMakeFiles/ALL_BUILD.dir
-G:/Учеба/prog/template/build/CMakeFiles/ZERO_CHECK.dir
-G:/Учеба/prog/template/build/mainlib/CMakeFiles/lib.dir
-G:/Учеба/prog/template/build/lib/CMakeFiles/STATIC.dir
-G:/Учеба/prog/template/build/test/CMakeFiles/test.dir
-G:/Учеба/prog/template/build/gtest/CMakeFiles/gtest.dir
