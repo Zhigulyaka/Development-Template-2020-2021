@@ -1,0 +1,10 @@
+^H:\STUDY\PROG\DEVELOPMENT-TEMPLATE-2020-2021\FUNCTION_LIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SH:/Study/prog/Development-Template-2020-2021 -BH:/Study/prog/Development-Template-2020-2021/build --check-stamp-file H:/Study/prog/Development-Template-2020-2021/build/function_lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

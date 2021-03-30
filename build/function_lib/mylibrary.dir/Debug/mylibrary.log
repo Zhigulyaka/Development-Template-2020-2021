@@ -1,0 +1,5 @@
+﻿  Building Custom Rule H:/Study/prog/Development-Template-2020-2021/function_lib/CMakeLists.txt
+  text.cpp
+H:\Study\prog\Development-Template-2020-2021\function_lib\text.h(30,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+H:\Study\prog\Development-Template-2020-2021\function_lib\text.h(30,27): error C2433: orerator: "friend" не разрешается для объявлений данных
+H:\Study\prog\Development-Template-2020-2021\function_lib\text.h(30,64): error C2238: непредвиденные лексемы перед ";"
